@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+    background: #026dc0;
+    font-family:Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+h1,h2,h3,p,ul,li{
+    margin:0;
+    padding:0;
+}
+p,h2,h3{
+    margin:0 0 10px 0;
+}
+ul{
+    list-style-type:none;
+}
+#wrap{
+    margin:0 auto;
+    margin-top:40px;
+    margin-bottom:10px;
+    background:#fff;
+    padding:10px;
+    width:780px;
+    border:10px solid #044375;
+}
