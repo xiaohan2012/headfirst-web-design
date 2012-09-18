@@ -25,6 +25,17 @@ ul{
     width:780px;
     border:10px solid #044375;
 }
+#header{
+    background:url("../images/island_header.jpg") no-repeat;
+    height:250px;
+}
+#header h1{
+    padding:30px 0 30px 30px;
+    color:#fff;
+    background:url("../images/dot.png") no-repeat;
+    font-weight:normal;
+    letter-spacing:-1px;
+}
 #nav{
     margin:10px 0 0 0;
     padding:10px;
